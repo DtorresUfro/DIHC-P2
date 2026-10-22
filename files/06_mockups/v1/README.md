@@ -7,5 +7,3 @@ Aplicación móvil de acompañamiento durante una espera quirúrgica prolongada.
 - **Vista_general.png**: vista general del diseño.
 
 [Figma - Proyecto Diseño](https://www.figma.com/design/ufEwiJe7lo2KOFiytYV5Qb/Proyecto-Dise%C3%B1o?node-id=10-2)
-
-Diseño de baja fidelidad con datos ficticios. Las flechas representan los recorridos; no incluye interacciones de prototipo. La aplicación comunica el estado y la preparación, sin prometer una fecha de cirugía.
